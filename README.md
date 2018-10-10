@@ -51,6 +51,10 @@ Beautiful React Native components
 
 Description of the changes between versions.
 
-### v1.0
+### v1.0.0
 
 - Basic components
+
+### v1.0.1
+
+- Working components and global configs

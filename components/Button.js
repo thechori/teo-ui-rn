@@ -1,8 +1,8 @@
 import React from 'react'
 import { Text, TouchableOpacity } from 'react-native'
 
-import globalStyles from '../../global/styles'
-import constants from '../../global/constants'
+import globalStyles from '../config/styles'
+import constants from '../config/constants'
 
 const Button = ({ onPress, title, customStyle }) => {
   const { buttonStyle, textStyle } = styles;

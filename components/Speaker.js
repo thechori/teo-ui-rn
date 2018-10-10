@@ -1,7 +1,7 @@
 import React from 'react';
 import { Image, Text, View } from 'react-native';
 
-import globalStyles from '../../global/styles'
+import globalStyles from '../config/styles'
 
 const Speaker = (props) => {
   const speaker = props.speaker.item;

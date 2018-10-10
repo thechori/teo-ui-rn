@@ -1,6 +1,6 @@
 {
   "name": "teo-ui-rn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautiful React Native components",
   "main": "index.js",
   "scripts": {
