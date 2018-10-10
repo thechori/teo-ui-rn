@@ -1,0 +1,19 @@
+{
+  "name": "teo-ui-rn",
+  "version": "1.0.0",
+  "description": "Beautiful React Native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teodoro",
+    "systems",
+    "react",
+    "native",
+    "components",
+    "ui"
+  ],
+  "author": "Teodoro Systems",
+  "license": "ISC"
+}
